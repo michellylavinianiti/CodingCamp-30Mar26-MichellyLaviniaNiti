@@ -30,3 +30,12 @@ li {
   background: #eee;
   padding: 10px;
 }
+
+.dark {
+  background: #111;
+  color: white;
+}
+
+.dark li {
+  background: #333;
+}
